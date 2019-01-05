@@ -26,6 +26,7 @@
 [![Discord](https://img.shields.io/badge/discord-inlife-green.svg)](https://discord.gg/S2JtRcB)
 
 -------
+# custom version of inlife/nexrender
 
 Automate your After Effects project creation and rendering routine. Create your own render network.
 
